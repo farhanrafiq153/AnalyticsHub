@@ -7,6 +7,15 @@ investigate the interplay between safety scores and crime rates near public scho
 
 
 
+# Chicago Public Schools - Progress Report Cards (2011-2012)
+
+The Chicago Public Schools - Progress Report Cards (2011-2012) project is a comprehensive 
+exploration of the performance data of Chicago Public Schools during the academic years 2011-2012. 
+This initiative aims to delve into various aspects of school performance captured in the progress 
+report cards issued by the Chicago Public Schools system.
+
+
+
 # WaveX WaterCraft Project (Power BI)
 
 Developed interactive dashboards with dynamic charts and maps to visualize sales trends by region, product category for Improved Sales and HR Management.
